@@ -1,0 +1,144 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>13/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Nov 22 07:56:50 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>138 seconds (138128 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.mindtree.Runner.Landing_on_GeekGiftsPage.Navigating_to_GeekGiftsPage()'><b>Navigating_to_GeekGiftsPage</b><br>Test class: com.mindtree.Runner.Landing_on_GeekGiftsPage</td>
+<td></td>
+<td>6</td>
+<td>com.mindtree.Runner.Landing_on_GeekGiftsPage@63f259c3</td></tr>
+<tr>
+<td title='com.mindtree.Runner.HomePage_Title_Validation.Validate_HomePage_title()'><b>Validate_HomePage_title</b><br>Test class: com.mindtree.Runner.HomePage_Title_Validation</td>
+<td></td>
+<td>0</td>
+<td>com.mindtree.Runner.HomePage_Title_Validation@d41f816</td></tr>
+<tr>
+<td title='com.mindtree.Runner.Adding_GiftCard_to_Cart.add_giftcard_to_cart()'><b>add_giftcard_to_cart</b><br>Test class: com.mindtree.Runner.Adding_GiftCard_to_Cart</td>
+<td></td>
+<td>2</td>
+<td>com.mindtree.Runner.Adding_GiftCard_to_Cart@8576fa0</td></tr>
+<tr>
+<td title='com.mindtree.Runner.Adding_product_to_cart_from_AllOfIt.add_to_cart_from_AllOfIt()'><b>add_to_cart_from_AllOfIt</b><br>Test class: com.mindtree.Runner.Adding_product_to_cart_from_AllOfIt</td>
+<td></td>
+<td>6</td>
+<td>com.mindtree.Runner.Adding_product_to_cart_from_AllOfIt@60129b9a</td></tr>
+<tr>
+<td title='com.mindtree.Runner.New_Product_from_Personalized_Gifts.adding_new_product_from_personalisedGifts_to_cart()'><b>adding_new_product_from_personalisedGifts_to_cart</b><br>Test class: com.mindtree.Runner.New_Product_from_Personalized_Gifts</td>
+<td></td>
+<td>10</td>
+<td>com.mindtree.Runner.New_Product_from_Personalized_Gifts@7a55af6b</td></tr>
+<tr>
+<td title='com.mindtree.Runner.Adding_product_to_wishlist.adding_product_to_wishlist()'><b>adding_product_to_wishlist</b><br>Test class: com.mindtree.Runner.Adding_product_to_wishlist</td>
+<td></td>
+<td>11</td>
+<td>com.mindtree.Runner.Adding_product_to_wishlist@27216cd</td></tr>
+<tr>
+<td title='com.mindtree.Runner.Sign_up_now_Check.check_sign_up_for_now()'><b>check_sign_up_for_now</b><br>Test class: com.mindtree.Runner.Sign_up_now_Check</td>
+<td></td>
+<td>0</td>
+<td>com.mindtree.Runner.Sign_up_now_Check@558bdf1f</td></tr>
+<tr>
+<td title='com.mindtree.Runner.Login_Check.login_to_site_check()'><b>login_to_site_check</b><br>Test class: com.mindtree.Runner.Login_Check</td>
+<td></td>
+<td>4</td>
+<td>com.mindtree.Runner.Login_Check@338c99c8</td></tr>
+<tr>
+<td title='com.mindtree.Runner.Landing_On_CreateAcountPage.navigate_to_createAccountPage()'><b>navigate_to_createAccountPage</b><br>Test class: com.mindtree.Runner.Landing_On_CreateAcountPage</td>
+<td></td>
+<td>3</td>
+<td>com.mindtree.Runner.Landing_On_CreateAcountPage@5c2375a9</td></tr>
+<tr>
+<td title='com.mindtree.Runner.Account_Creation_Check.new_account_creation()'><b>new_account_creation</b><br>Test class: com.mindtree.Runner.Account_Creation_Check</td>
+<td></td>
+<td>6</td>
+<td>com.mindtree.Runner.Account_Creation_Check@78d6692f</td></tr>
+<tr>
+<td title='com.mindtree.Runner.KeyChain_Search.search_for_keyChain()'><b>search_for_keyChain</b><br>Test class: com.mindtree.Runner.KeyChain_Search</td>
+<td></td>
+<td>2</td>
+<td>com.mindtree.Runner.KeyChain_Search@3d9c13b5</td></tr>
+<tr>
+<td title='com.mindtree.Runner.search_for_a_specific_product.search_for_product()'><b>search_for_product</b><br>Test class: com.mindtree.Runner.search_for_a_specific_product<br>Parameters: Batman Rug</td>
+<td></td>
+<td>2</td>
+<td>com.mindtree.Runner.search_for_a_specific_product@492691d7</td></tr>
+<tr>
+<td title='com.mindtree.Runner.Product_Selection_from_Top50.select_product_from_Top50()'><b>select_product_from_Top50</b><br>Test class: com.mindtree.Runner.Product_Selection_from_Top50</td>
+<td></td>
+<td>2</td>
+<td>com.mindtree.Runner.Product_Selection_from_Top50@7c8c9a05</td></tr>
+</table><p>
+</body>
+</html>

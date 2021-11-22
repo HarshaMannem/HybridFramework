@@ -1,0 +1,171 @@
+2021-11-22 07:56:50.211  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:56:50.214  INFO [main] Base:21 - Google browser
+2021-11-22 07:56:52.259  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:56:52.287  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:56:52.317  INFO [main] Base:76 - Opening url
+2021-11-22 07:56:55.995  INFO [main] Base:79 - Url opened
+2021-11-22 07:56:57.093  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:56:57.095 DEBUG [main] Base:33 - The test case  Validate_HomePage_title is started
+2021-11-22 07:56:57.132  INFO [main] Base:17 - The HomePage title is matched
+2021-11-22 07:56:57.690 DEBUG [main] Base:47 - The test case  Validate_HomePage_title is passed
+2021-11-22 07:56:58.466  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:56:58.468  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:56:58.469  INFO [main] Base:21 - Google browser
+2021-11-22 07:57:00.083  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:57:00.095  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:57:00.096  INFO [main] Base:76 - Opening url
+2021-11-22 07:57:03.189  INFO [main] Base:79 - Url opened
+2021-11-22 07:57:03.245  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:57:03.248 DEBUG [main] Base:33 - The test case  login_to_site_check is started
+2021-11-22 07:57:05.176  INFO [main] Base:14 - clicked on the sign in button in the homepage
+2021-11-22 07:57:05.520  INFO [main] Base:17 - entered the email
+2021-11-22 07:57:05.596  INFO [main] Base:20 - entered the password
+2021-11-22 07:57:07.732  INFO [main] Base:22 - clicked on the submit
+2021-11-22 07:57:08.046 DEBUG [main] Base:47 - The test case  login_to_site_check is passed
+2021-11-22 07:57:08.920  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:57:08.922  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:57:08.922  INFO [main] Base:21 - Google browser
+2021-11-22 07:57:10.469  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:57:10.481  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:57:10.482  INFO [main] Base:76 - Opening url
+2021-11-22 07:57:13.582  INFO [main] Base:79 - Url opened
+2021-11-22 07:57:13.622  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:57:13.623 DEBUG [main] Base:33 - The test case  navigate_to_createAccountPage is started
+2021-11-22 07:57:15.445  INFO [main] Base:14 - clicked on the sign in
+2021-11-22 07:57:17.169  INFO [main] Base:16 - clicked on create account button
+2021-11-22 07:57:17.258  INFO [main] Base:21 - The Create Account Page is landed successfully
+2021-11-22 07:57:17.489 DEBUG [main] Base:47 - The test case  navigate_to_createAccountPage is passed
+2021-11-22 07:57:18.244  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:57:18.246  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:57:18.246  INFO [main] Base:21 - Google browser
+2021-11-22 07:57:19.860  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:57:19.872  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:57:19.876  INFO [main] Base:76 - Opening url
+2021-11-22 07:57:23.097  INFO [main] Base:79 - Url opened
+2021-11-22 07:57:23.124  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:57:23.125 DEBUG [main] Base:33 - The test case  search_for_product is started
+2021-11-22 07:57:25.585  INFO [main] Base:15 - The name of the product is entered in to the search box using data provider 
+2021-11-22 07:57:25.948 DEBUG [main] Base:47 - The test case  search_for_product is passed
+2021-11-22 07:57:26.773  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:57:26.775  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:57:26.775  INFO [main] Base:21 - Google browser
+2021-11-22 07:57:28.365  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:57:28.374  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:57:28.376  INFO [main] Base:76 - Opening url
+2021-11-22 07:57:31.760  INFO [main] Base:79 - Url opened
+2021-11-22 07:57:31.795  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:57:31.796 DEBUG [main] Base:33 - The test case  add_to_cart_from_AllOfIt is started
+2021-11-22 07:57:33.907  INFO [main] Base:10 - clicked on the All Of it in HomePage Ui
+2021-11-22 07:57:36.071  INFO [main] Base:12 - clicked on a product in All of it page
+2021-11-22 07:57:36.281  INFO [main] Base:14 - clicked on the Add to cart
+2021-11-22 07:57:38.569 DEBUG [main] Base:47 - The test case  add_to_cart_from_AllOfIt is passed
+2021-11-22 07:57:39.335  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:57:39.336  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:57:39.337  INFO [main] Base:21 - Google browser
+2021-11-22 07:57:40.870  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:57:40.886  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:57:40.887  INFO [main] Base:76 - Opening url
+2021-11-22 07:57:43.839  INFO [main] Base:79 - Url opened
+2021-11-22 07:57:43.879  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:57:43.880 DEBUG [main] Base:33 - The test case  new_account_creation is started
+2021-11-22 07:57:45.438  INFO [main] Base:14 - clicked on the sign in in Homepage UI
+2021-11-22 07:57:46.826  INFO [main] Base:16 - click on the create new account in Loginpage UI
+2021-11-22 07:57:47.012  INFO [main] Base:19 - Entered the firstname
+2021-11-22 07:57:47.087  INFO [main] Base:22 - Entered the lastname
+2021-11-22 07:57:48.221  INFO [main] Base:26 - Entered the EmailId
+2021-11-22 07:57:49.328  INFO [main] Base:30 - Entered the Password
+2021-11-22 07:57:50.432  INFO [main] Base:33 - clicked on the submit i.e create account
+2021-11-22 07:57:50.659 DEBUG [main] Base:47 - The test case  new_account_creation is passed
+2021-11-22 07:57:51.850  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:57:51.850  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:57:51.851  INFO [main] Base:21 - Google browser
+2021-11-22 07:57:53.348  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:57:53.361  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:57:53.362  INFO [main] Base:76 - Opening url
+2021-11-22 07:57:56.769  INFO [main] Base:79 - Url opened
+2021-11-22 07:57:56.799  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:57:56.799 DEBUG [main] Base:33 - The test case  select_product_from_Top50 is started
+2021-11-22 07:57:59.327  INFO [main] Base:15 - clicked on the Top50 icon in homepage Ui
+2021-11-22 07:57:59.693  INFO [main] Base:18 - clicked on specific product search in the Top50 products
+2021-11-22 07:58:00.050 DEBUG [main] Base:47 - The test case  select_product_from_Top50 is passed
+2021-11-22 07:58:00.811  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:58:00.812  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:58:00.813  INFO [main] Base:21 - Google browser
+2021-11-22 07:58:02.316  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:58:02.328  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:58:02.330  INFO [main] Base:76 - Opening url
+2021-11-22 07:58:05.345  INFO [main] Base:79 - Url opened
+2021-11-22 07:58:05.378  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:58:05.379 DEBUG [main] Base:33 - The test case  Navigating_to_GeekGiftsPage is started
+2021-11-22 07:58:10.108  INFO [main] Base:12 - Navigated to the Geeks gifts page via shop by catergory
+2021-11-22 07:58:12.062 DEBUG [main] Base:47 - The test case  Navigating_to_GeekGiftsPage is passed
+2021-11-22 07:58:12.814  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:58:12.816  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:58:12.817  INFO [main] Base:21 - Google browser
+2021-11-22 07:58:14.291  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:58:14.305  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:58:14.306  INFO [main] Base:76 - Opening url
+2021-11-22 07:58:17.123  INFO [main] Base:79 - Url opened
+2021-11-22 07:58:17.149  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:58:17.150 DEBUG [main] Base:33 - The test case  check_sign_up_for_now is started
+2021-11-22 07:58:17.689  INFO [main] Base:12 - Entered the email and clicked on sign up for now
+2021-11-22 07:58:18.121 DEBUG [main] Base:47 - The test case  check_sign_up_for_now is passed
+2021-11-22 07:58:18.854  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:58:18.855  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:58:18.855  INFO [main] Base:21 - Google browser
+2021-11-22 07:58:20.380  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:58:20.392  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:58:20.393  INFO [main] Base:76 - Opening url
+2021-11-22 07:58:23.486  INFO [main] Base:79 - Url opened
+2021-11-22 07:58:23.517  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:58:23.517 DEBUG [main] Base:33 - The test case  add_giftcard_to_cart is started
+2021-11-22 07:58:25.547  INFO [main] Base:11 - clicked on giftcard in HomePageUi
+2021-11-22 07:58:25.771  INFO [main] Base:13 - clicked on the add to cart to add giftcard to the cart
+2021-11-22 07:58:26.055 DEBUG [main] Base:47 - The test case  add_giftcard_to_cart is passed
+2021-11-22 07:58:26.867  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:58:26.868  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:58:26.869  INFO [main] Base:21 - Google browser
+2021-11-22 07:58:28.346  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:58:28.359  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:58:28.360  INFO [main] Base:76 - Opening url
+2021-11-22 07:58:31.210  INFO [main] Base:79 - Url opened
+2021-11-22 07:58:31.232  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:58:31.234 DEBUG [main] Base:33 - The test case  search_for_keyChain is started
+2021-11-22 07:58:33.630  INFO [main] Base:15 - entered key chain in search barand clicked on enter
+2021-11-22 07:58:33.798  INFO [main] Base:18 - Entered the key chain name for search
+2021-11-22 07:58:34.124 DEBUG [main] Base:47 - The test case  search_for_keyChain is passed
+2021-11-22 07:58:34.918  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:58:34.919  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:58:34.919  INFO [main] Base:21 - Google browser
+2021-11-22 07:58:36.412  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:58:36.425  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:58:36.426  INFO [main] Base:76 - Opening url
+2021-11-22 07:58:39.283  INFO [main] Base:79 - Url opened
+2021-11-22 07:58:39.303  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:58:39.304 DEBUG [main] Base:33 - The test case  adding_product_to_wishlist is started
+2021-11-22 07:58:41.743  INFO [main] Base:13 - clicked on the homedecor on HomepageUi
+2021-11-22 07:58:47.787  INFO [main] Base:16 - clicked on the product
+2021-11-22 07:58:50.899  INFO [main] Base:19 - clicked on the homedecor Add to wishlist
+2021-11-22 07:58:51.362 DEBUG [main] Base:47 - The test case  adding_product_to_wishlist is passed
+2021-11-22 07:58:52.139  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:58:52.140  INFO [main] Base:18 - Driver Setup
+2021-11-22 07:58:52.140  INFO [main] Base:21 - Google browser
+2021-11-22 07:58:53.693  INFO [main] Base:25 - Initialization of Driver is done
+2021-11-22 07:58:53.708  INFO [main] Base:61 - Passing the driver object to all the PageObjects
+2021-11-22 07:58:53.709  INFO [main] Base:76 - Opening url
+2021-11-22 07:58:56.646  INFO [main] Base:79 - Url opened
+2021-11-22 07:58:56.669  INFO [main] Base:81 - Excel WorkBook Setup is done
+2021-11-22 07:58:56.670 DEBUG [main] Base:33 - The test case  adding_new_product_from_personalisedGifts_to_cart is started
+2021-11-22 07:58:58.595  INFO [main] Base:14 - clicked on the personalized gifts
+2021-11-22 07:58:58.844  INFO [main] Base:16 - clicked on sortby on personalized page Ui
+2021-11-22 07:59:00.951  INFO [main] Base:18 - selected the new from the dropdown
+2021-11-22 07:59:06.473  INFO [main] Base:20 - selected a product from new personalized products
+2021-11-22 07:59:07.016  INFO [main] Base:23 - entered the customer name to in to the name box
+2021-11-22 07:59:07.164  INFO [main] Base:25 - clicked on the add to cart
+2021-11-22 07:59:07.555 DEBUG [main] Base:47 - The test case  adding_new_product_from_personalisedGifts_to_cart is passed
+2021-11-22 07:59:08.328  INFO [main] Base:88 - Driver Closed
+2021-11-22 07:59:08.383 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-11-22 07:59:08.384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-11-22 07:59:08.386 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 07:59:08.387 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 07:59:08.387 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/HARSHA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+   <listeners>
+		<listener class-name="com.mindtree.Utilities.Listeners" />
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.mindtree.Runner.HomePage_Title_Validation"/>
+      <class name="com.mindtree.Runner.Login_Check"/>
+      <class name="com.mindtree.Runner.Landing_On_CreateAcountPage"/>
+      <class name="com.mindtree.Runner.search_for_a_specific_product"/>
+      <class name="com.mindtree.Runner.Adding_product_to_cart_from_AllOfIt"/>
+      <class name="com.mindtree.Runner.Account_Creation_Check"/>
+      <class name="com.mindtree.Runner.Product_Selection_from_Top50"/>
+      <class name="com.mindtree.Runner.Landing_on_GeekGiftsPage"/>
+      <class name="com.mindtree.Runner.Sign_up_now_Check"/>
+      <class name="com.mindtree.Runner.Adding_GiftCard_to_Cart"/>
+      <class name="com.mindtree.Runner.KeyChain_Search"/>
+      <class name="com.mindtree.Runner.Adding_product_to_wishlist"/>
+      <class name="com.mindtree.Runner.New_Product_from_Personalized_Gifts"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
